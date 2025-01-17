@@ -54,19 +54,16 @@ Perform further feature engineering to improve model performance.
 
 How to Run the Project
 
-Clone the repository:
+**Clone the repository:**
 
 git clone https://github.com/avinash8898/Credit-Card-Fraud-Detection.git
 
-Navigate to the project directory:
+**Navigate to the project directory:**
 
 cd Credit-Card-Fraud-Detection
 
-Install the required dependencies:
 
-pip install -r requirements.txt
-
-Run the Jupyter Notebook or Python script for training the model.
+Run the Google Colaboratory or Python script for training the model.
 
 Acknowledgements
 
