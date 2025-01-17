@@ -40,11 +40,11 @@ The Logistic Regression model achieved significant accuracy in detecting fraudul
 
 PCA helped in reducing the complexity of the data and improving the model's computational efficiency.
 
-Conclusion
+**Conclusion**
 
 This project demonstrates the use of Logistic Regression combined with PCA and statistical analysis to detect fraudulent credit card transactions effectively. The model's performance metrics indicate its potential for real-world application in financial fraud detection.
 
-Future Work
+**Future Work**
 
 Explore more advanced machine learning models like Random Forest or Neural Networks.
 
