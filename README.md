@@ -1,10 +1,10 @@
-**Credit Card Fraud Detection Project**
+**Credit Card Fraud Detection**
 
 Project Overview
 
 This project focuses on detecting fraudulent credit card transactions using Logistic Regression. The data used in this project is preprocessed with Principal Component Analysis (PCA) to reduce dimensionality and improve model performance. Additionally, various statistical analyses, such as calculating the mean and count of different features, were conducted to understand the data better.
 
-Dataset
+#Dataset
 
 The dataset contains credit card transactions with a mix of fraudulent and non-fraudulent activities. Key features include transaction amounts, times, and anonymized features derived from PCA.
 
